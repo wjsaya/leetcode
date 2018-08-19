@@ -14,5 +14,6 @@ CCC为文件后缀[py, c, java...]
 --|--|--
 [easy](https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95)|[001: two-sum](https://leetcode-cn.com/problems/two-sum/description/)|[done](./easy_001_two-sum.py)
 [easy](https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95)|[007: reverse-integer](https://leetcode-cn.com/problems/reverse-integer/description/)|[done](./easy_007_reverse-integer.py)
+[easy](https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95)|[009: palindrome-number](https://leetcode-cn.com/problems/palindrome-number/description/)|[done](./easy_009_palindrome-number.py)
 
 
