@@ -96,6 +96,18 @@ CCC为文件后缀[py, c, java...]
 			<a href="./easy_020_valid-parentheses.py"> python </a>
 		</th>
     </tr>
+    <tr>
+        <th>021</th>
+        <th>
+			<a href="https://leetcode-cn.com/problems/merge-two-sorted-lists/"> merge-two-sorted-lists </a>
+		</th>
+        <th>
+			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
+		</th>
+        <th>
+			<a href="./easy_021_merge-two-sorted-lists.py"> python todo </a>
+		</th>
+    </tr>
 </table>
 
 
