@@ -85,7 +85,7 @@ CCC为文件后缀[py, c, java...]
 		</th>
     </tr>
     <tr>
-        <th>015</th>
+        <th>020</th>
         <th>
 			<a href="https://leetcode-cn.com/problems/valid-parentheses/"> valid-parentheses </a>
 		</th>
@@ -93,7 +93,7 @@ CCC为文件后缀[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
 		</th>
         <th>
-			<a href="./easy_015_valid-parentheses.py"> python </a>
+			<a href="./easy_020_valid-parentheses.py"> python </a>
 		</th>
     </tr>
 </table>

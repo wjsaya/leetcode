@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*- 
-# @Project: PROJECTNAME(PROJECTURL) 
 # @Author:	wjsaya(http://www.wjsaya.top) 
 # @Date:	2018-08-21 21:06:40 
 # @Last Modified by:	wjsaya(http://www.wjsaya.top) 
-# @Last Modified time:	2018-08-21 21:06:40 
+# @Last Modified time:	2018-08-21 23:15:03 
+
  
 # 题目地址:https://leetcode-cn.com/problems/valid-parentheses/
 # 给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串，判断字符串是否有效。
