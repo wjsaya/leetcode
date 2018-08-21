@@ -10,7 +10,8 @@ BBB为题目编号[001, 002, 003...]
 CCC为文件后缀[py, c, java...]
 
 Navigation
-#|Title|Difficulty|Solution
+
+\#|Title|Difficulty|Solution
 --|--|--|--
 001|[two-sum](https://leetcode-cn.com/problems/two-sum/)|[easy](https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95)|[python](./easy_001_two-sum.py)
 007|[reverse-integer](https://leetcode-cn.com/problems/reverse-integer/)|[easy](https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95)|[python](./easy_007_reverse-integer.py)
