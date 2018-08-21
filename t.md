@@ -1,5 +1,10 @@
 <table>
     <tr>
+        <th colspan="4">
+            <b>aaa</b>
+        </th>
+    </tr>
+    <tr>
         <th>#</th>
         <th>Title</th>
         <th>Difficulty</th>
