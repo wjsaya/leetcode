@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*- 
-# @Project: PROJECTNAME(PROJECTURL) 
 # @Author:	wjsaya(http://www.wjsaya.top) 
 # @Date:	2018-08-21 23:16:39 
 # @Last Modified by:	wjsaya(http://www.wjsaya.top) 
-# @Last Modified time:	2018-08-21 23:16:39 
+# @Last Modified time:	2018-08-26 09:08:35 
  
 
 # 题目地址:https://leetcode-cn.com/problems/merge-two-sorted-lists/
@@ -13,11 +12,10 @@
 # 输入：1->2->4, 1->3->4
 # 输出：1->1->2->3->4->4
 
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
+class ListNode:
+    def __init__(self, x):
+        self.val = x
+        self.next = None
 
 class Solution:
     def mergeTwoLists(self, l1, l2):
@@ -26,49 +24,36 @@ class Solution:
         :type l2: ListNode
         :rtype: ListNode
         """
-        l1 = [int(i) for i in l1.split("->")]
-        l2 = [int(i) for i in l2.split("->")]
-        
-        if len(l1) == 0:
+        # l1,l2任一为空，直接返回另一个
+        if l1 is None:
             return l2
-        if len(l2) == 0:
+        if l2 is None:
             return l1
-            
-        lr = []
-        l1head = l1.pop(0)
-        l2head = l2.pop(0)
-            
-        while(len(l1) != 0 and len(l2) != 0):
-            # print("loop on\t\t|", l1head, l2head, l1, l2, lr)
-            # print(l1head, "?????", l2head)
-            if l1head <= l2head:
-                lr.append(l1head)
-                l1head = l1.pop(0)
+        
+        # 初始化链表的首位
+        if l1.val <= l2.val:
+            headre = rspre = ListNode(l1.val)
+            l1 = l1.next
+        else:
+            headre = rspre = ListNode(l2.val)
+            l2 = l2.next
+
+        # 遍历l1和l2，对链表赋值
+        while(l1 != None and l2 != None):
+            temp = ListNode(None)
+            if l1.val <= l2.val:
+                temp.val = l1.val
+                l1 = l1.next
             else:
-                lr.append(l2head)
-                l2head = l2.pop(0)
-            # print("loop off\t|", l1head, l2head, l1, l2, lr)
-            # print(l1head, l2head)
-            # print(l1, l2)
+                temp.val = l2.val
+                l2 = l2.next
+            headre.next = temp
+            headre = headre.next
 
-        print("loop off\t|", l1head, l2head, l1, l2, lr)
-        
-        while len(l1) != 0:
-            l1head = l1.pop(0)
-            lr.append(l1head)
-            
-        while len(l2) != 0:
-            l2head = l2.pop(0)
-            lr.append(l1head)
-        
-        print("loop off\t|", l1head, l2head, l1, l2, lr)
-        
+        # 追加l1与l2剩余部分
+        if(l1 != None):
+            headre.next = l1
+        if(l2 != None):
+            headre.next = l2
 
-
-# l1 = "1->2->4"
-# l2 = "1->3->4"
-l1 = "1->2->3"
-l2 = "10->20->30"
-test = Solution()
-print(test.mergeTwoLists(l1, l2))  
-
+        return rspre
