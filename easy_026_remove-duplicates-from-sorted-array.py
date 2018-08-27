@@ -26,4 +26,18 @@ class Solution:
         :type nums: List[int]
         :rtype: int
         """
+        if len(nums) < 2:
+            return len(nums)
+        i = 0
+        for j in nums:
+            if nums[i] != j:
+                i += 1
+                nums[i] = j
+                
+        # return i+1, nums
+        return i+1
         
+inarr = [1, 1, 1, 1,2, 3, 3, 4]
+test = Solution()
+# print((len(inarr), inarr))
+print(test.removeDuplicates(inarr))

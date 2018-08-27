@@ -117,7 +117,7 @@ CCC为文件后缀[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
 		</th>
         <th>
-			<a href="./easy_026_remove-duplicates-from-sorted-array.py"> python todo </a>
+			<a href="./easy_026_remove-duplicates-from-sorted-array.py"> python </a>
 		</th>
     </tr>
 </table>
