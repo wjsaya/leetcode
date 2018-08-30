@@ -25,100 +25,100 @@ CCC为文件后缀[py, c, java...]
         <th>Solution</th>
     </tr>	
     <tr>
-        <th>001</th>
-        <th>
+        <td>001</td>
+        <td>
 			<a href="https://leetcode-cn.com/problems/two-sum/"> two-sum </a>
-		</th>
-        <th>
+		</td>
+        <td>
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
-		</th>
-        <th>
-			<a href="./easy_001_two-sum.py"> python </a>
-		</th>
+		</td>
+        <td>
+			<a href="./easy_001_two-sum.py"> pytdon </a>
+		</td>
     </tr>	
     <tr>
-        <th>007</th>
-        <th>
+        <td>007</td>
+        <td>
 			<a href="https://leetcode-cn.com/problems/reverse-integer/"> reverse-integer </a>
-		</th>
-        <th>
+		</td>
+        <td>
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
-		</th>
-        <th>
-			<a href="./easy_007_reverse-integer.py"> python </a>
-		</th>
+		</td>
+        <td>
+			<a href="./easy_007_reverse-integer.py"> pytdon </a>
+		</td>
     </tr>	
     <tr>
-        <th>009</th>
-        <th>
+        <td>009</td>
+        <td>
 			<a href="https://leetcode-cn.com/problems/palindrome-number/"> palindrome-number </a>
-		</th>
-        <th>
+		</td>
+        <td>
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
-		</th>
-        <th>
-			<a href="./easy_009_palindrome-number.py"> python </a>
-		</th>
+		</td>
+        <td>
+			<a href="./easy_009_palindrome-number.py"> pytdon </a>
+		</td>
     </tr>	
     <tr>
-        <th>013</th>
-        <th>
+        <td>013</td>
+        <td>
 			<a href="https://leetcode-cn.com/problems/roman-to-integer/"> roman-to-integer </a>
-		</th>
-        <th>
+		</td>
+        <td>
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
-		</th>
-        <th>
-			<a href="./easy_013_roman-to-integer.py"> python </a>
-		</th>
+		</td>
+        <td>
+			<a href="./easy_013_roman-to-integer.py"> pytdon </a>
+		</td>
     </tr>	
     <tr>
-        <th>014</th>
-        <th>
+        <td>014</td>
+        <td>
 			<a href="https://leetcode-cn.com/problems/longest-common-prefix/"> longest-common-prefix </a>
-		</th>
-        <th>
+		</td>
+        <td>
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
-		</th>
-        <th>
-			<a href="./easy_014_longest-common-prefix.py"> python </a>
-		</th>
+		</td>
+        <td>
+			<a href="./easy_014_longest-common-prefix.py"> pytdon </a>
+		</td>
     </tr>
     <tr>
-        <th>020</th>
-        <th>
-			<a href="https://leetcode-cn.com/problems/valid-parentheses/"> valid-parentheses </a>
-		</th>
-        <th>
+        <td>020</td>
+        <td>
+			<a href="https://leetcode-cn.com/problems/valid-parentdeses/"> valid-parentdeses </a>
+		</td>
+        <td>
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
-		</th>
-        <th>
-			<a href="./easy_020_valid-parentheses.py"> python </a>
-		</th>
+		</td>
+        <td>
+			<a href="./easy_020_valid-parentdeses.py"> pytdon </a>
+		</td>
     </tr>
     <tr>
-        <th>021</th>
-        <th>
+        <td>021</td>
+        <td>
 			<a href="https://leetcode-cn.com/problems/merge-two-sorted-lists/"> merge-two-sorted-lists </a>
-		</th>
-        <th>
+		</td>
+        <td>
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
-		</th>
-        <th>
-			<a href="./easy_021_merge-two-sorted-lists.py"> python </a>
-		</th>
+		</td>
+        <td>
+			<a href="./easy_021_merge-two-sorted-lists.py"> pytdon </a>
+		</td>
     </tr>
     <tr>
-        <th>026</th>
-        <th>
+        <td>026</td>
+        <td>
 			<a href="https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/"> remove-duplicates-from-sorted-array </a>
-		</th>
-        <th>
+		</td>
+        <td>
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
-		</th>
-        <th>
-			<a href="./easy_026_remove-duplicates-from-sorted-array.py"> python </a>
-		</th>
+		</td>
+        <td>
+			<a href="./easy_026_remove-duplicates-from-sorted-array.py"> pytdon </a>
+		</td>
     </tr>
 </table>
 
