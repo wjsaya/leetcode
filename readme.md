@@ -1,13 +1,18 @@
-# 说明
-这个源是我刷leetcode的代码，命名规则如下：
 
-AAAA_BBB.CCC
+[English](readme.md) | [中文](./readme_zh_CN.md)
 
-AAAA为难度[easy, medium, hard]
+# Description
+This Repository is the code for [leetcode](http://www.leetcode.com), The naming rules are as follows:
 
-BBB为题目编号[001, 002, 003...]
+AAAA_BBB_CCC.DD
 
-CCC为文件后缀[py, c, java...]
+AAAA is Difficulty[easy, medium, hard]
+
+BBB is the Serial number[001, 002, 003...]
+
+CCC is Name
+
+DD is suffix[py, c, java...]
 
 
 -------
@@ -33,7 +38,7 @@ CCC为文件后缀[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
 		</td>
         <td>
-			<a href="./easy_001_two-sum.py"> pytdon </a>
+			<a href="./easy_001_two-sum.py"> python </a>
 		</td>
     </tr>	
     <tr>
@@ -45,7 +50,7 @@ CCC为文件后缀[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
 		</td>
         <td>
-			<a href="./easy_007_reverse-integer.py"> pytdon </a>
+			<a href="./easy_007_reverse-integer.py"> python </a>
 		</td>
     </tr>	
     <tr>
@@ -57,7 +62,7 @@ CCC为文件后缀[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
 		</td>
         <td>
-			<a href="./easy_009_palindrome-number.py"> pytdon </a>
+			<a href="./easy_009_palindrome-number.py"> python </a>
 		</td>
     </tr>	
     <tr>
@@ -69,7 +74,7 @@ CCC为文件后缀[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
 		</td>
         <td>
-			<a href="./easy_013_roman-to-integer.py"> pytdon </a>
+			<a href="./easy_013_roman-to-integer.py"> python </a>
 		</td>
     </tr>	
     <tr>
@@ -81,7 +86,7 @@ CCC为文件后缀[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
 		</td>
         <td>
-			<a href="./easy_014_longest-common-prefix.py"> pytdon </a>
+			<a href="./easy_014_longest-common-prefix.py"> python </a>
 		</td>
     </tr>
     <tr>
@@ -93,7 +98,7 @@ CCC为文件后缀[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
 		</td>
         <td>
-			<a href="./easy_020_valid-parentdeses.py"> pytdon </a>
+			<a href="./easy_020_valid-parentdeses.py"> python </a>
 		</td>
     </tr>
     <tr>
@@ -105,7 +110,7 @@ CCC为文件后缀[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
 		</td>
         <td>
-			<a href="./easy_021_merge-two-sorted-lists.py"> pytdon </a>
+			<a href="./easy_021_merge-two-sorted-lists.py"> python </a>
 		</td>
     </tr>
     <tr>
@@ -117,9 +122,22 @@ CCC为文件后缀[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
 		</td>
         <td>
-			<a href="./easy_026_remove-duplicates-from-sorted-array.py"> pytdon </a>
+			<a href="./easy_026_remove-duplicates-from-sorted-array.py"> python </a>
 		</td>
     </tr>
+    <tr>
+        <td>027</td>
+        <td>
+			<a href="https://leetcode-cn.com/problems/remove-element/"> remove-element </a>
+		</td>
+        <td>
+			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
+		</td>
+        <td>
+			<a href="./easy_027_remove-element.py"> python </a>
+		</td>
+    </tr>
+    
 </table>
 
 
