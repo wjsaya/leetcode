@@ -38,7 +38,8 @@ DD is suffix[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
 		</td>
         <td>
-			<a href="./python/easy_001_two-sum.py"> python </a>
+			<a href="./python/easy_001_two-sum.py"> python</a> | 
+			<a href="./java/easy_001_two_sum.java"> java </a>
 		</td>
     </tr>	
     <tr>
