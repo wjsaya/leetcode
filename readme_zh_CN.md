@@ -1,4 +1,4 @@
-[English](readme.md) | [中文](./readme_zh_CN.md)
+[English](./readme.md) | [中文](./readme_zh_CN.md)
 
 # 说明
 这个源是我刷[leetcode](http://leetcode-cn.com)的代码，命名规则如下：
@@ -37,7 +37,8 @@ DD为文件后缀[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=简单"> 简单 </a>
 		</td>
         <td>
-			<a href="./easy_001_two-sum.py"> python </a>
+			<a href="./python/easy_001_two-sum.py"> python</a> | 
+			<a href="./java/easy_001_two_sum.java"> java </a>
 		</td>
     </tr>	
     <tr>
@@ -49,7 +50,7 @@ DD为文件后缀[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=简单"> 简单 </a>
 		</td>
         <td>
-			<a href="./easy_007_reverse-integer.py"> python </a>
+			<a href="./python/easy_007_reverse-integer.py"> python </a>
 		</td>
     </tr>	
     <tr>
@@ -61,7 +62,7 @@ DD为文件后缀[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=简单"> 简单 </a>
 		</td>
         <td>
-			<a href="./easy_009_palindrome-number.py"> python </a>
+			<a href="./python/easy_009_palindrome-number.py"> python </a>
 		</td>
     </tr>	
     <tr>
@@ -73,7 +74,7 @@ DD为文件后缀[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=中等"> 中等 </a>
 		</td>
         <td>
-			<a href="./medium_012_integer-to-roman.py"> python </a>
+			<a href="./python/medium_012_integer-to-roman.py"> python </a>
 		</td>
     </tr>
     <tr>
@@ -85,7 +86,7 @@ DD为文件后缀[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=简单"> 简单 </a>
 		</td>
         <td>
-			<a href="./easy_013_roman-to-integer.py"> python </a>
+			<a href="./python/easy_013_roman-to-integer.py"> python </a>
 		</td>
     </tr>	
     <tr>
@@ -97,7 +98,7 @@ DD为文件后缀[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=简单"> 简单 </a>
 		</td>
         <td>
-			<a href="./easy_014_longest-common-prefix.py"> python </a>
+			<a href="./python/easy_014_longest-common-prefix.py"> python </a>
 		</td>
     </tr>
     <tr>
@@ -109,7 +110,7 @@ DD为文件后缀[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=简单"> 简单 </a>
 		</td>
         <td>
-			<a href="./easy_020_valid-parentdeses.py"> python </a>
+			<a href="./python/easy_020_valid-parentdeses.py"> python </a>
 		</td>
     </tr>
     <tr>
@@ -121,7 +122,7 @@ DD为文件后缀[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=简单"> 简单 </a>
 		</td>
         <td>
-			<a href="./easy_021_merge-two-sorted-lists.py"> python </a>
+			<a href="./python/easy_021_merge-two-sorted-lists.py"> python </a>
 		</td>
     </tr>
     <tr>
@@ -133,7 +134,7 @@ DD为文件后缀[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=简单"> 简单 </a>
 		</td>
         <td>
-			<a href="./easy_026_remove-duplicates-from-sorted-array.py"> python </a>
+			<a href="./python/easy_026_remove-duplicates-from-sorted-array.py"> python </a>
 		</td>
     </tr>
     

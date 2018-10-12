@@ -38,7 +38,7 @@ DD is suffix[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
 		</td>
         <td>
-			<a href="./easy_001_two-sum.py"> python </a>
+			<a href="./python/easy_001_two-sum.py"> python </a>
 		</td>
     </tr>	
     <tr>
@@ -50,7 +50,7 @@ DD is suffix[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
 		</td>
         <td>
-			<a href="./easy_007_reverse-integer.py"> python </a>
+			<a href="./python/easy_007_reverse-integer.py"> python </a>
 		</td>
     </tr>	
     <tr>
@@ -62,7 +62,7 @@ DD is suffix[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
 		</td>
         <td>
-			<a href="./easy_009_palindrome-number.py"> python </a>
+			<a href="./python/easy_009_palindrome-number.py"> python </a>
 		</td>
     </tr>
     <tr>
@@ -74,7 +74,7 @@ DD is suffix[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E4%B8%AD%E7%AD%89"> medium </a>
 		</td>
         <td>
-			<a href="./medium_012_integer-to-roman.py"> python </a>
+			<a href="./python/medium_012_integer-to-roman.py"> python </a>
 		</td>
     </tr>
     <tr>
@@ -86,7 +86,7 @@ DD is suffix[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
 		</td>
         <td>
-			<a href="./easy_013_roman-to-integer.py"> python </a>
+			<a href="./python/easy_013_roman-to-integer.py"> python </a>
 		</td>
     </tr>	
     <tr>
@@ -98,7 +98,7 @@ DD is suffix[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
 		</td>
         <td>
-			<a href="./easy_014_longest-common-prefix.py"> python </a>
+			<a href="./python/easy_014_longest-common-prefix.py"> python </a>
 		</td>
     </tr>
     <tr>
@@ -110,7 +110,7 @@ DD is suffix[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
 		</td>
         <td>
-			<a href="./easy_020_valid-parentdeses.py"> python </a>
+			<a href="./python/easy_020_valid-parentdeses.py"> python </a>
 		</td>
     </tr>
     <tr>
@@ -122,7 +122,7 @@ DD is suffix[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
 		</td>
         <td>
-			<a href="./easy_021_merge-two-sorted-lists.py"> python </a>
+			<a href="./python/easy_021_merge-two-sorted-lists.py"> python </a>
 		</td>
     </tr>
     <tr>
@@ -134,7 +134,7 @@ DD is suffix[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
 		</td>
         <td>
-			<a href="./easy_026_remove-duplicates-from-sorted-array.py"> python </a>
+			<a href="./python/easy_026_remove-duplicates-from-sorted-array.py"> python </a>
 		</td>
     </tr>
     <tr>
@@ -146,7 +146,7 @@ DD is suffix[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=%E7%AE%80%E5%8D%95"> easy </a>
 		</td>
         <td>
-			<a href="./easy_027_remove-element.py"> python </a>
+			<a href="./python/easy_027_remove-element.py"> python </a>
 		</td>
     </tr>
     
