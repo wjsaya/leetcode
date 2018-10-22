@@ -115,6 +115,19 @@ DD为文件后缀[py, c, java...]
 		</td>
     </tr>
     <tr>
+        <td>019</td>
+        <td>
+			<a href="https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list">删除链表的倒数第 n 个节点</a>
+		</td>
+        <td>
+			<a href="https://leetcode-cn.com/problemset/all/?difficulty=中等"> 中等 </a>
+		</td>
+        <td>
+			 python </a>|
+			<a href="./java/medium_019_remove_nth_node_from_end_of_list.java"> java </a>
+		</td>
+    </tr>
+    <tr>
         <td>020</td>
         <td>
 			<a href="https://leetcode-cn.com/problems/valid-parentdeses/"> 	有效的括号 </a>

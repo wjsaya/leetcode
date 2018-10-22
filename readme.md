@@ -116,6 +116,19 @@ DD is suffix[py, c, java...]
 		</td>
     </tr>
     <tr>
+        <td>019</td>
+        <td>
+			<a href="https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list">remove-nth-node-from-end-of-list</a>
+		</td>
+        <td>
+			<a href="https://leetcode-cn.com/problemset/all/?difficulty=中等"> medium </a>
+		</td>
+        <td>
+			 python </a>|
+			<a href="./java/medium_019_remove_nth_node_from_end_of_list.java"> java </a>
+		</td>
+    </tr>
+    <tr>
         <td>020</td>
         <td>
 			<a href="https://leetcode-cn.com/problems/valid-parentdeses/"> valid-parentdeses </a>
