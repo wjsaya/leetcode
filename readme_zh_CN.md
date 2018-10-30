@@ -148,7 +148,8 @@ DD为文件后缀[py, c, java...]
 			<a href="https://leetcode-cn.com/problemset/all/?difficulty=简单"> 简单 </a>
 		</td>
         <td>
-			<a href="./python/easy_021_merge-two-sorted-lists.py"> python </a>
+			<a href="./python/easy_021_merge-two-sorted-lists.py"> python </a> |
+			<a href="./java/easy_021_merge_two_sorted_lists.java"> java </a>
 		</td>
     </tr>
     <tr>
